@@ -6,7 +6,7 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <h1>衡阳市协融债权人维权公告</h1>
+        <h1>衡阳协融债权人维权公告平台</h1>
       </div>
       <div id="particles-js"></div>
     </div>
